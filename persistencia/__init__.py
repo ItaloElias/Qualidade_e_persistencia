@@ -1,0 +1,1 @@
+from .persistencia import ler_pontuacoes, salvar_pontuacao_json, salvar_pontuacao
